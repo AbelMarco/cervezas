@@ -1,0 +1,8 @@
+{
+    "extends": "standard",
+    "rules": {
+        "no-var":"warn",
+        "prefer-const":"warn",
+        "no-unused-vars":"warn"
+    }
+}
